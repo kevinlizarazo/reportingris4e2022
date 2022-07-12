@@ -34,7 +34,7 @@ export const BlogPost: FunctionComponent<BlogPost> = ({
               key={index}
               className="text-sm leading-5 font-medium text-indigo-600 mx-2"
             >
-              <a href={`/tags/${tag}`}>#{tag}</a>
+              <a href={`/tags/${tag}`}>{tag}</a>
             </span>
           ))}
         </div>

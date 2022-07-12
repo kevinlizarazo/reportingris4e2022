@@ -27,11 +27,12 @@ export const FeaturePost: FunctionComponent<PostSnippet> = ({
       </div>
       <div className="flex-1 bg-white p-6 flex flex-col justify-between">
         <div className="flex-1">
-          <p className="text-sm leading-5 font-medium text-indigo-600">
+          <p className="text-sm leading-5 font-medium text-black">
+            <span>By </span>
             {tags.map((tag, index) => (
               <span key={index}>
-                <a href={`/tags/${tag}`} className="hover:underline">
-                  #{tag}
+                <a href={`/tags/${tag}`} className="text-indigo-600 hover:underline">
+                  {tag}
                 </a>{" "}
               </span>
             ))}
@@ -56,16 +57,21 @@ export const TopFeaturePost: FunctionComponent<PostSnippet> = ({
   imgAlt,
 }) => {
   return (
-    <div>
+    <div className="">
       <a href={href}>
         <Image
           fluid={img}
           alt={imgAlt || title}
           className="h-144 w-full object-cover rounded"
         />
-        <h1 className="text-4xl text-center my-3">{title}</h1>
-        <div className="mb-16 max-w-prose mx-auto text-center text-lg text-gray-600">
+        <h1 className="text-4xl text-center my-3 font-sans text-white">{title}</h1>
+        <div className="font-serif mb-16 mx-auto text-lg text-white max-w-6xl">
           {summary}
+          <div className="mt-8 text-center">
+            <a href={href} className="block font-medium tracking-wide font-sans">
+              Read More <span className="material-symbols-outlined align-bottom">read_more</span>
+            </a>
+          </div>
         </div>
       </a>
     </div>
@@ -77,11 +83,11 @@ export const FeaturePosts: FunctionComponent<FeaturePosts> = ({
 }) => {
   const [topPost, ...otherFeature] = featurePosts;
   return (
-    <div className="relative py-6">
+    <div className="relative py-6 mx-auto px-4 sm:px-6 lg:px-8 bg-gray-800">
       <div className="relative max-w-7xl mx-auto">
         <TopFeaturePost {...topPost} />
-        <h2 className="text-2xl leading-9 tracking-tight font-semibold text-gray-900 sm:leading-10 text-center mt-3 mb-8">
-          Featured Posts
+        <h2 className="text-2xl leading-9 tracking-tight font-semibold font-sans text-white sm:leading-10 text-center mt-3 mb-8">
+          Featured Stories
         </h2>
         <div className="mt-3 grid gap-5 xl:gap-10 max-w-lg mx-auto grid-cols-1 md:grid-cols-3 md:max-w-none">
           {otherFeature.map((featurePost, index) => (

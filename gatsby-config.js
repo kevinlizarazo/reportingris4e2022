@@ -1,7 +1,7 @@
-const siteName = "Sample Blog";
-const siteShortName = "Sample Blog";
-const siteUrl = "https://geek.sg/";
-const siteDescription = "Sample blog template";
+const siteName = "Reporting RISE";
+const siteShortName = "Reporting RISE";
+const siteUrl = "https://reportingrise2.com";
+const siteDescription = "Reporting RISE";
 const siteKeyword = "";
 const siteLogo = "logo.png";
 const siteLogoFolder = `static/${siteLogo}`;
