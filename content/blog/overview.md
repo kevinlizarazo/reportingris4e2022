@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: “Analog sites” on Earth provide NASA with test runs beyond our planet
-publishedDate: 2022-04-26T15:05:55.651Z
+publishedDate: 2022-10-17T15:05:55.651Z
 description: That was the consensus among the arriving students at Kilbourne Hole, New Mexico. On a swelteringly hot day in the middle of the desert, seemingly undisturbed by human settlement, one would not be alone in mistaking it for the famous desert planets of Tatooine from Star Wars or Arrakis from Dune. All that means is that NASA and the RISE2 team did their jobs right.
 featured: true
 img: ../../static/images/overview.jpg

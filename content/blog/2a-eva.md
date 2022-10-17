@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Strolls Through a Volcanic Crater Help Astronauts Prepare for Walks on Moon
-publishedDate: 2022-10-17T15:05:55.651Z
+publishedDate: 2022-10-16T15:05:55.651Z
 description: “Houston, are you seeing this?” Caroline Kostak said into the GoPro propped on her shoulder. The NASA engineer held up a rock she found during a traverse and showed it to the camera, twisting it and examining it in her hands. She’s usually a researcher for the Remote, In Situ, and Synchrotron Studies for Science and Exploration (RISE2) Program, but today she’s acting like an astronaut on the moon collecting rock samples to bring back to Earth.
 featured: true
 img: ../../static/images/ris4e-img.jpg

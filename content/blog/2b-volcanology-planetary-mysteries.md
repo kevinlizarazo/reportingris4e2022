@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How Study of Volcanoes Unearths Mysteries of Planets
-publishedDate: 2022-10-16T15:05:55.651Z
+publishedDate: 2022-10-15T15:05:55.651Z
 description: The earth has untold tales throughout its history – and so do other planets. Scientists like Ernie Bell of NASA’s Goddard Space Flight Center hope to uncover the stories embedded in the earth to help people gain a better understanding of other planets. That’s the premise that brought teams of scientists to check out seismic activity at Potrillo Volcanic Field in southern New Mexico.
 featured: true
 img: ../../static/images/overview.jpg
