@@ -15,6 +15,7 @@ interface QueryData {
       imgAlt: string;
       publishedDate: string;
       description: string;
+      section: string;
     };
   };
 }
@@ -84,6 +85,7 @@ export const Page: FunctionComponent<Page> = ({ data }) => {
         tags,
         imgAlt,
         description,
+        section,
         img: {
           childImageSharp: { fluid: img },
         },

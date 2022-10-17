@@ -6,6 +6,7 @@ description: As I traipsed through the sands of Potrillo Volcanic Fields, sweat 
 featured: true
 img: ../../static/images/gallery1.jpg
 imgAlt: Website under development!
+section: PlanetaryProtege
 tags:
   - Lauren Canavan
 ---

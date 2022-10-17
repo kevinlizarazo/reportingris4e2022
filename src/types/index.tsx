@@ -27,5 +27,6 @@ export interface BlogPost {
   imgAlt?: string;
   slug: string;
   tags: string[];
+  section: string;
   content: JSX.Element;
 }

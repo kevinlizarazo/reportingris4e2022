@@ -17,6 +17,7 @@ interface Post {
       tags: string[];
       img: { childImageSharp: { fluid: FluidObject } };
       imgAlt: string;
+      section: string;
       publishedDate: string;
     };
   };
@@ -40,6 +41,7 @@ export const pageQuery = graphql`
             tags
             imgAlt
             publishedDate
+            section
             img {
               childImageSharp {
                 fluid(maxWidth: 370, maxHeight: 220, quality: 90) {
@@ -74,6 +76,7 @@ export const Page: FunctionComponent<QueryData> = ({ data, pageContext }) => {
       img: node.frontmatter.img.childImageSharp.fluid,
       imgAlt: node.frontmatter.imgAlt,
       tags: node.frontmatter.tags,
+      section: node.frontmatter.section,
       publishedDate: new Date(node.frontmatter.publishedDate),
     })
   );
