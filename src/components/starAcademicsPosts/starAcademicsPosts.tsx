@@ -12,7 +12,7 @@ export const StarAcademicsPosts: FunctionComponent<StarAcademicsPosts> = ({
   return (
     <div className="relative py-0">
       <div className="relative max-w-7xl mx-auto">
-        <h2 className="text-2xl leading-9 tracking-tight font-semibold font-sans text-gray-900 sm:leading-10 text-center my-12">
+        <h2 className="text-4xl leading-9 tracking-tight font-semibold font-sans text-gray-900 sm:leading-10 text-center my-12">
           Star Academics
         </h2>
         <PostList posts={starAcademicsPosts} />

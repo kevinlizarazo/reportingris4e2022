@@ -86,7 +86,7 @@ export const FeaturePosts: FunctionComponent<FeaturePosts> = ({
     <div className="relative py-6 mx-auto px-4 sm:px-6 lg:px-8 bg-gray-800">
       <div className="relative max-w-7xl mx-auto">
         <TopFeaturePost {...topPost} />
-        <h2 className="text-2xl leading-9 tracking-tight font-semibold font-sans text-white sm:leading-10 text-center mt-3 mb-8">
+        <h2 className="text-4xl leading-9 tracking-tight font-semibold font-sans text-white sm:leading-10 text-center mt-3 mb-8">
           Featured Stories
         </h2>
         <div className="mt-3 grid gap-5 xl:gap-10 max-w-lg mx-auto grid-cols-1 md:grid-cols-3 md:max-w-none">
