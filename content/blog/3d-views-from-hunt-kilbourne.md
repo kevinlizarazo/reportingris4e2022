@@ -5,7 +5,7 @@ publishedDate: 2022-04-23T15:05:55.651Z
 description: As I traipsed through the sands of Potrillo Volcanic Fields, sweat dripping off my brow, I couldn’t get over the fact that for geologists, this lifestyle is their 9-5. While craters might seem nothing more than a useless wasteland to some, they are a geologist’s paradise. Across three days, I gained insight on the immense preparation going into future space exploration, all while soaking up some of the most beautiful views I’ve ever seen. 
 featured: true
 img: ../../static/images/gallery1.jpg
-imgAlt: Website under development!
+imgAlt: "#"
 section: PlanetaryProtege
 tags:
   - Lauren Canavan
