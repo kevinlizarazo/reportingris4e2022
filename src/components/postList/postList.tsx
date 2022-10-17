@@ -15,7 +15,7 @@ export const PostListItem: FunctionComponent<PostSnippet> = ({
   summary,
 }) => {
   return (
-    <div className="flex mb-16 sm:mb-28 flex-col sm:flex-row">
+    <div className="flex mb-16 flex-col sm:flex-row">
       <div className="flex-shrink-0 mr-0 sm:mr-8 mb-6 sm:mb-0">
         <a href={href}>
           <Image
