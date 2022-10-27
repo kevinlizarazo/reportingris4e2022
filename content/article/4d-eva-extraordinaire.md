@@ -5,8 +5,8 @@ publishedDate: 2022-10-14T06:36:42.533Z
 description: >
   Being the field lead for the EVA (extravehicular activity) traverses at Kilbourne and Hunt’s Hole, Zach Morse knows exactly what he wants to accomplish: “How do technologies and instruments like the LIDAR (Light Detection and Ranging) interact with astronauts doing live science missions?”
 featured: false
-img: ../../static/images/overview.jpg
-imgAlt: "#"
+img: ../../static/images/4da1.jpg
+imgAlt: "Zach Morse reviewing EVA landing sites with RISE2 participants."
 tags:
   - Deidre Redhead
 section: LunarLuminary
@@ -25,6 +25,8 @@ Being the field lead for the EVA (extravehicular activity) traverses at Kilbourn
 
 At the end of every hour-long traverse, Zach would have a questionnaire sectioned off into three parts — data, science objective, and operational objective. As the designer of the questionnaire and script, the idea is to see how astronauts “interact with data at one site and limited data at another site.”
 
+![](../../static/images/4da3sb.JPG "")
+
 As each site of a traverse decreases in the information available like maps and graphs, the goal is to extract more observations from scientists with questions like “What sample would you take?” and “What do you want to do next?” with the choose your own adventure style opportunity. 
 
 But as a scientist, there is still so much that he wants to unpack about the history of both craters when it comes to the number of volcanic eruptions each location underwent and how dated the rocks and crystals that scatter the desert are.
@@ -41,9 +43,11 @@ Now in New Mexico, he has set his sights on the RISE project and what it means f
 
 Almost every nightly debrief about the progress made in each group wouldn’t be complete without giving credit to Zach’s role in leading the EVA traverses at each location.
 
+![](../../static/images/4da2.jpg "")
+
 “Great job, Zach. Excellent job coordinating that this week,” said mineralogist Cherie Achilles.
 
-Data lead Ben Faist echoed her sentiments saying, “Kudos again to Zach.”
+Data lead Ben Feist echoed her sentiments saying, “Kudos again to Zach.”
 
 Nandita Kumari, who worked closely alongside Zach doing notetaking of the scientists’ observations, praised his ability to walk through all of the EVAs in a successful run time.
 

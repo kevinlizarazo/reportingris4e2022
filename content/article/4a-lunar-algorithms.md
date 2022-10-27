@@ -5,8 +5,8 @@ publishedDate: 2022-10-17T06:36:42.533Z
 description: >
   For six years, Ben Feist sat at his computer on evenings and weekends working on a project fueled solely by passion. It won him two Emmy awards — and it got him a job at NASA.
 featured: false
-img: ../../static/images/overview.jpg
-imgAlt: "#"
+img: ../../static/images/4a1.jpg
+imgAlt: ""
 tags:
   - Melanie Formosa
 section: LunarLuminary
@@ -46,3 +46,5 @@ The movie depicts the true story of figuring out a way to get astronauts back to
 Feist holds a bachelor’s of arts in English and computer science. His path to NASA was unusual: He did not attend graduate school, and he did not climb the ladder, as he says many do. Instead, he worked in the private sector for 22 years. “What I don’t have in the academic sector, I have in the private sector,” Feist said.
 
 The secret to Ben’s success is the fact that he says “yes.” And by following his passion.
+
+![Ben Feist](../../static/images/4a5.jpg "Ben Feist")

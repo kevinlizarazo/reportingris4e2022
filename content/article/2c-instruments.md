@@ -4,8 +4,8 @@ title: NASA scientists rely on sensitive tools from handheld gadgets to bulky ma
 publishedDate: 2022-04-24T15:05:55.651Z
 description: Along with the human crew, the rocket blasting back to the moon as part of the Artemis Project in 2025 will be carrying an array of highly sensitive gadgets to help the astronauts do dangerous and important jobs in space.  Some of the machines used on Earth to analyze the features of analog sites like Kilbourne Hole in New Mexico will likely take the journey – or at least some instruments derived from those trusty monitors will.
 featured: true
-img: ../../static/images/instruments1.jpg
-imgAlt: "#"
+img: ../../static/images/2c1.jpg
+imgAlt: ''
 tags:
   - Julia Zeikowitz
 ---
@@ -21,13 +21,13 @@ NASA scientists Paul Bremmer of Johnson Space Center in Houston and Michael Zane
 
 Amy McAdams of NASA’s Goddard Space Flight Center operates the X-Ray Spectrometer, or XRS. It’s used to analyze the mineral composition of rocks and outcrops. While at Kilbourne Hole, McAdams used this instrument after larger surveys of the rock beds were analyzed. The XRS works by using charged particles in order to get a x-ray spectrometry of the elements that were surveyed.
 
-![](../../static/images/instruments1.jpg)
-Photo: Amy McAdams using the XRS on a sample
+![Amy McAdams using the XRS on a sample.](../../static/images/2c1.jpg "Amy McAdams using the XRS on a sample")
+<figcaption class="rr-caption" align="center">Amy McAdams using the XRS on a sample.</figcaption>
 
 Stony Brook University geologist Deanne Rogers stood in the hot sun at Hunt’s Hole peering into the massive hyperspectral thermal infrared sensor. The instrument, which stands on a tripod, uses the long wavelengths of infrared light to analyze the chemical composition of a larger rock field, scanning wide areas of outcrops. The data from this instrument shows the composition of the minerals that are not visible to the naked eye. In the field, Rogers worked with McAdams in order to get specific points of the rock bed analyzed for their chemical composition.
 
 In their own ways, these three instruments are playing an important role in 
 future space exploration.
 
-![](../../static/images/instruments2.jpg)
-Photo: Deanne Rogers and SBU graduate student Reed Hopkins, using the hyperspectral thermal infrared sensor
+![Deanne Rogers and SBU graduate student Reed Hopkins, using the hyperspectral thermal infrared sensor.](../../static/images/2c2.jpg "Deanne Rogers and SBU graduate student Reed Hopkins, using the hyperspectral thermal infrared sensor")
+<figcaption class="rr-caption" align="center">Deanne Rogers and SBU graduate student Reed Hopkins, using the hyperspectral thermal infrared sensor.</figcaption>

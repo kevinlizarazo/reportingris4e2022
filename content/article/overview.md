@@ -8,8 +8,8 @@ description: That was the consensus among the arriving students at Kilbourne
   it for the famous desert planets of Tatooine from Star Wars or Arrakis from
   Dune. All that means is that NASA and the RISE2 team did their jobs right.
 featured: true
-img: ../../static/images/overview.jpg
-imgAlt: Website under development!
+img: ../../static/images/1a1.jpg
+imgAlt: ''
 tags:
   - RIS4E
 section: Overview

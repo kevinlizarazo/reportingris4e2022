@@ -8,8 +8,8 @@ description: >
   scientists, Kumari hopes, will give better insight into the eruptions that
   have occurred and the history of rocks that remain. 
 featured: false
-img: ../../static/images/overview.jpg
-imgAlt: "#"
+img: ../../static/images/3a4.jpg
+imgAlt: ""
 tags:
   - Deidre Redhead
 section: PlanetaryProtege
@@ -21,6 +21,8 @@ She spent the morning doing data collection and rock identification for each ext
 Thirty minutes later, Kumari is back in the field, clipboard, and iPad in hand, explaining the properties of quartz. The data and observations from scientists, Kumari hopes, will give better insight into the eruptions that have occurred and the history of rocks that remain. 
 
 “It’s nice to be in the field,” the third-year graduate student says, doing a quick scan of the desert’s horizon.
+
+![](../../static/images/3a2.jpg)
 
 For students like Nandita Kumari, New Mexico is a time to start anew and make up for forgotten fieldwork time. 
 
@@ -39,6 +41,8 @@ These moments to conduct research in regions across the country, or even across 
 It’s not an unusual experience for students to feel as if they lost a sense of time in not being able to be out in the field. The “grand experience” Hopkins defines as the initial years of graduate school never happened for him due to events and opportunities being delayed.
 
 “I would have a first experience at the beginning of my second year,” Hopkins said.
+
+![](../../static/images/3a3.jpg)
 
 But he leans on the universal feeling that other science students share in their first time doing fieldwork to showcase the idea of normalcy for other students.
 
@@ -65,3 +69,5 @@ Even now as opportunities become more available, these positions were mostly for
 She has about a week left to work on the RISE2 project before heading to San Francisco for other projects and conferences.
 
 “It’s been a weird thing, but I’m glad it’s working out now.”
+
+![](../../static/images/3a1.jpg)

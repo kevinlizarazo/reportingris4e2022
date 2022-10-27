@@ -5,8 +5,8 @@ publishedDate: 2022-10-16T06:36:42.533Z
 description: >
   On a hot sunny day in the deserts of New Mexico, Dr. Alice Baldridge stood on the edge of a rock one morning under the late April sky and took scientists through simulation after simulation in a volcanic crater to learn the history of the site. The geologist and educator lives to tell stories — but not as a writer, as a geologist. 
 featured: false
-img: ../../static/images/overview.jpg
-imgAlt: "#"
+img: ../../static/images/5b2.JPG
+imgAlt: ""
 tags:
   - Maya Brown
 section: StarAcademic
@@ -25,7 +25,9 @@ During her time at the University of California Santa Cruz, she studied earth sc
 
 Following her bachelor’s degree, she went on to receive her master’s at Arizona State University where she had the opportunity to experience field work — the direct observation and investigation of rocks and rock materials in their natural environment. As part of her master’s thesis, she spent time in Death Valley, California and used the site as a remote sensing analog site for ancient aqueous environments on Mars. 
 
-Baldridge said her main mission during the trip was to find evidence that there was once standing waters on Mars and then use the salts and minerals found to understand both the history of the water and what kinds of rocks did those materials interact with. 
+Baldridge said her main mission during the trip was to find evidence that there was once standing waters on Mars and then use the salts and minerals found to understand both the history of the water and what kinds of rocks did those materials interact with.
+
+![](../../static/images/5b1.JPG)
 
 She hopes to always be involved in field work and wants to travel to new sites to help future research. She has also conducted field work across the world including the Hot Springs at Yellowstone National Park, the Sand Dunes of the Western U.S. and the Hot Springs and glacial environments of Iceland. 
 

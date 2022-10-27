@@ -6,8 +6,8 @@ description: >
   In April 2022, I stepped into the shoes of an astronaut. Teams of NASA scientists gathered at the Potrillo Volcanic Field in New Mexico for a week’s worth of research to help send a crew of astronauts back to the moon and other planets. I was fortunate enough to test out new methods that astronauts would use on a future mission to the moon, such as spacewalking or extravehicular activity (EVA). It was my job to find the basalt layer of rock some seven meters down into the earth for drilling in a seismic experiment. 
  
 featured: false
-img: ../../static/images/overview.jpg
-imgAlt: "#"
+img: ../../static/images/3b3.png
+imgAlt: ""
 tags:
   - Emmanuel Jaquez
 section: PlanetaryProtege
@@ -16,13 +16,17 @@ In April 2022, I stepped into the shoes of an astronaut.
 
 Teams of NASA scientists gathered at the Potrillo Volcanic Field in New Mexico for a week’s worth of research to help send a crew of astronauts back to the moon and other planets.
 
-I was fortunate enough to test out new methods that astronauts would use on a future mission to the moon, such as spacewalking or extravehicular activity (EVA). It was my job to find the basalt layer of rock some seven meters down into the earth for drilling in a seismic experiment. 
+I was fortunate enough to test out new methods that astronauts would use on a future mission to the moon, such as spacewalking or extravehicular activity (EVA). It was my job to find the basalt layer of rock some seven meters down into the earth for drilling in a seismic experiment.
+
+![A pink flag planted in the ground in New Mexico's Potrillo Volcanic Field](../../static/images/3b1.png)
 
 Basalt at Potrillo is charcoal- or black-colored smooth rock commonly found around volcanic eruptions. Its low viscosity allows it to flow long distances. The purpose of this EVA was to lay down seismometers five meters apart from each other to conduct tests on the earth below. 
 
 NASA Software Engineer Ben Feist was my partner during this astronaut training. Feist is a Spaceflight Data Researcher for NASA and Goddard Space Flight Center.
 
-Our trek up the non-active volcano field was beautiful, considering the heat. The view was mesmerizing. We were able to see other mountains and other volcanoes miles away from us.  
+Our trek up the non-active volcano field was beautiful, considering the heat. The view was mesmerizing. We were able to see other mountains and other volcanoes miles away from us.
+
+![NASA Software Engineer Ben Feist checking field equipment](../../static/images/3b2.png)
 
 As we reached our location, the EVA began. Feist and I had to look at various printed maps with different data on each map. One of the maps showed the topography of the area we were researching. Another map had data regarding what was being found underneath us. 
 
@@ -34,11 +38,15 @@ Placing the seismometer was the easy part. The reason behind hitting the ground 
 
 Each seismometer acts like a receiver, gathering data every time the sledgehammer makes contact with the ground. The impact of the sledgehammer at the first seismometer receives a strong signal as the vibrations from the first impact move further out. The data begins to get fuzzy, so gathering data from each seismometer is crucial.
 
+![Seismometers laid out across the Potrillo Volcanic Field](../../static/images/3b3.png)
+
 After gathering the data we collected, we were shown the results depicting what was concluded during the seismometer collection. Each seismometer had a graph showing the quality of the information we collected. 
 
 After reviewing our research, we looked over another data result from the seismometer, giving us a range of how deep the basalt was from our location. The results were pretty impressive as we were in the range of seven meters deep from basalt. 
 
-The reasoning behind why this experiment is crucial to future moon travel was to know what was valuable and, most importantly, how smoothly the process can be. 
+The reasoning behind why this experiment is crucial to future moon travel was to know what was valuable and, most importantly, how smoothly the process can be.
+
+![NASA scientists review procedures in the field.](../../static/images/3b4.png)
 
 The overall experience of the EVA from an outside point of view was highly informative. The people involved with the EVAs were experts in their respective fields, which made it a tremendous experience for me. 
 

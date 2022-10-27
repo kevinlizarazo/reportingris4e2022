@@ -5,8 +5,8 @@ publishedDate: 2022-10-14T06:36:42.533Z
 description: >
   Professor José Hurtado knows all about working in the field. He’s completed research not just around the country, but around the world, as a seasoned geologist, from the Himalayas to New Mexico.
 featured: false
-img: ../../static/images/overview.jpg
-imgAlt: "#"
+img: ../../static/images/5c1.jpg
+imgAlt: ""
 tags:
   - Sara Ruberg
 section: StarAcademic
@@ -16,6 +16,8 @@ The four geology students and their professor hauled a tricked out kids’ jeep 
 Hurtado wasn’t there on RISE2 business, despite being a big part of the program that was doing research in the area that day. He was there to help out his students from the University of Texas at El Paso. But exposing his students to the NASA research going on around Kilbourne Hole was a plus.
 
 Later on, his students got a free lesson in teamwork as they tried to free their stuck UTEP van from the sand. Hurtado laughed it off and turned it into a learning experience.
+
+![](../../static/images/5c2.jpg)
 
 “It's a legit and authentic field memory, because that's the kind of stuff that happens in the field,” Hurtado. “That's part of being educated and being a field scientist just to deal with things like that, contingencies.”
 
@@ -32,6 +34,8 @@ But Hurtado took it a step further. Before college he knew he wanted to work in 
 Even so, Hurtado slowly fell in love with geology, which is the degree he ended up graduating with. Even as a geologist, he still made it his mission to one day step foot on the moon. Only one other geologist, Harrison Schmitt, has done so.
 
 “I would say José would make an excellent member of either a future astronaut team for Artemis or a member of the mission control team,” Zach Morse, a RISE2 scientist and colleague of Hurtado, said. “He is the perfect sweet spot of knowledge of the geology, the procedures, the ways to communicate everything from both the engineering perspective or the scientific perspective and just like the best like cool, calm demeanor.”
+
+![](../../static/images/5c3.jpg)
 
 While NASA was the goal, Hurtado’s journey didn’t start there. Soon after receiving his bachelors and masters degrees in geology, Hurtado began his first grand geology adventure in the Himalayas through his PhD program at MIT.
 
@@ -51,7 +55,10 @@ While he accepted a postdoc position at Jet Propulsion Laboratory, he began appl
 
 Hurtado began at UTEP in 2002. During his time, he found even more connections between his prior research and UTEP. Several students were doing research in Bhutan – an area he hoped to extend his research from Nepal to, and he did. 
 
-He has been a professor at UTEP for 20 years now. But his career hasn’t stopped there. 
+He has been a professor at UTEP for 20 years now. But his career hasn’t stopped there.
+
+![](../../static/images/5c4.jpg)
+<figcaption class="rr-caption" align="center">Geologist Jose Hurtado carries out a simulated spacewalk during a NASA research mission in 2011. Photo courtesy of NASA/Regan Geeseman</figcaption>
 
 Around 2008, Hurtado’s dreams of working with NASA came true when he started training astronauts in geology there. He even started applying and interviewing to become an astronaut himself.
 
