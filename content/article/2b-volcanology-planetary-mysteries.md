@@ -2,12 +2,19 @@
 template: blog-post
 title: How Study of Volcanoes Unearths Mysteries of Planets
 publishedDate: 2022-10-15T15:05:55.651Z
-description: The earth has untold tales throughout its history – and so do other planets. Scientists like Ernie Bell of NASA’s Goddard Space Flight Center hope to uncover the stories embedded in the earth to help people gain a better understanding of other planets. That’s the premise that brought teams of scientists to check out seismic activity at Potrillo Volcanic Field in southern New Mexico.
+description: The earth has untold tales throughout its history – and so do other
+  planets. Scientists like Ernie Bell of NASA’s Goddard Space Flight Center hope
+  to uncover the stories embedded in the earth to help people gain a better
+  understanding of other planets. That’s the premise that brought teams of
+  scientists to check out seismic activity at Potrillo Volcanic Field in
+  southern New Mexico.
 featured: true
-img: ../../static/images/overview.jpg
-imgAlt: "#"
+img: ../../static/images/2b-1.jpg
+imgAlt: Planetary Geophysicist Ernie Bell collected seismic data using geophones
+  at Potrillo Volcanic Field in New Mexico in April 2022
 tags:
   - Emmanuel Jaquez
+section: Featured
 ---
 The earth has untold tales throughout its history – and so do other planets. Scientists like Ernie Bell of NASA’s Goddard Space Flight Center hope to uncover the stories embedded in the earth to help people gain a better understanding of other planets. 
 
@@ -29,6 +36,8 @@ Scientists attached an electronic trigger to the sledgehammer that detects when 
 For each geophone planted, scientists repeat making contact with the slab at least 10 times to make sure they have gathered enough data on each geophone. Copious amounts of ash present in the area made it difficult for seismic instruments to work on the first try. 
 
 "We mainly looked at the southern rim of the volcano today, said Bell, a postdoctoral research associate at NASA’s Goddard Space Flight Center and the University of Maryland. “A part of that was to look at post-eruption deposition of eruptive material or post to eruptive materials which could be comparable to lunar craters and or lunar foldings."
+
+![](../../static/images/2b-2.jpg "Ernie Bell (left) and John West (right) setting up geophones within the volcanic crater.")
 
 The craters of Potrillo are filled with volcanic ash. It looks pretty similar to sand, but it's much more refined, more like a powder. The ash sometimes can distort the waves that the geophone sends down into the earth. Ash and sand are very fine and loose materials that create “noise,” making it difficult to collect good data. 
 
