@@ -39,6 +39,8 @@ For each geophone planted, scientists repeat making contact with the slab at lea
 
 ![Ernie Bell (left) and John West (right) setting up geophones within the volcanic crater.](../../static/images/2b-2.jpg "Ernie Bell (left) and John West (right) setting up geophones within the volcanic crater.")
 
+<figcaption align = "center"><b>Ernie Bell (left) and John West (right) setting up geophones within the volcanic crater.</b></figcaption>
+
 The craters of Potrillo are filled with volcanic ash. It looks pretty similar to sand, but it's much more refined, more like a powder. The ash sometimes can distort the waves that the geophone sends down into the earth. Ash and sand are very fine and loose materials that create “noise,” making it difficult to collect good data. 
 
 Noise consists of unwanted frequencies that arise from different factors: Researchers repeat the tests and then overlay the data collected to have a better "image" of the data collected.
