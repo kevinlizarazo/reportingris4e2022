@@ -38,8 +38,7 @@ For each geophone planted, scientists repeat making contact with the slab at lea
 "We mainly looked at the southern rim of the volcano today, said Bell, a postdoctoral research associate at NASA’s Goddard Space Flight Center and the University of Maryland. “A part of that was to look at post-eruption deposition of eruptive material or post to eruptive materials which could be comparable to lunar craters and or lunar foldings."
 
 ![Ernie Bell (left) and John West (right) setting up geophones within the volcanic crater.](../../static/images/2b-2.jpg "Ernie Bell (left) and John West (right) setting up geophones within the volcanic crater.")
-
-<figcaption class="text-center my-2 text-gray-500" align = "center">Ernie Bell (left) and John West (right) setting up geophones within the volcanic crater.</figcaption>
+<figcaption class="rr-caption" align="center">Ernie Bell (left) and John West (right) setting up geophones within the volcanic crater.</figcaption>
 
 The craters of Potrillo are filled with volcanic ash. It looks pretty similar to sand, but it's much more refined, more like a powder. The ash sometimes can distort the waves that the geophone sends down into the earth. Ash and sand are very fine and loose materials that create “noise,” making it difficult to collect good data. 
 

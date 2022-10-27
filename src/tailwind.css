@@ -16,3 +16,9 @@
 .font-serif {
   font-family: 'Lora', Cambria, "Times New Roman", Times, serif;
 }
+
+@layer components {
+  .rr-caption {
+    @apply text-center my-2 text-gray-500 text-lg;
+  }
+}
