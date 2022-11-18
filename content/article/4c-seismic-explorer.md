@@ -7,7 +7,7 @@ featured: false
 img: ../../static/images/4c1.jpg
 imgAlt: ""
 tags:
-  - Ryan Magill
+  - Lauren Canavan
 section: LunarLuminary
 ---
 When Jacob Richardson enters a field site, he never knows what he’ll find. As lead investigator of the GEODES (Geophysical Exploration of the Dynamics and Evolution of the Solar System) team at NASA Goddard Space Flight Center, Richardson has traveled the world conducting geological research. Through utilization of geophysics, his team explores lunar lava flows and tectonic features on Earth to determine how they might relate to conditions on other planets. 
