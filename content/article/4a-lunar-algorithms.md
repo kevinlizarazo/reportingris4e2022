@@ -5,7 +5,7 @@ publishedDate: 2022-10-17T06:36:42.533Z
 description: >
   Ben Feist stood against the dusty wind at the Potrillo volcanic field. “Nothing like chasing your hat across the desert,” he quipped. The software engineer stood in the midst of a 400-square-mile otherworldly environment of parched land, craters and lava flows.
 featured: false
-img: ../../static/images/4a1.jpg
+img: ../../static/images/4a5.jpg
 imgAlt: ""
 tags:
   - Melanie Formosa
@@ -73,5 +73,3 @@ Feist graduated from Trent University in Ontario with a bachelor of arts in Engl
 This past year Feist won the Johnson Space Center Exceptional Software Award and the Johnson Space Center Director’s Innovation Award. He is the recipient of more than 20 honors and awards.
 
 Yet Feist remains humble. Though grateful, the awards are not his motivation. Instead he chases the zeal, the thrill and the fulfillment of doing what he loves. “Not often in life do people get to work on things they really care about and also contribute to the future of humanity,” Feist said. “I feel like I’ve finally found a place that’s like that.”
-
-![Ben Feist](../../static/images/4a5.jpg "Ben Feist")
