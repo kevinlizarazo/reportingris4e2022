@@ -1,8 +1,8 @@
 ---
 template: blog-post
-title: “Analog sites” on Earth provide NASA with test runs beyond our planet
+title: “Analog sites” on Earth provide NASA with test runs for beyond our planet
 publishedDate: 2022-10-17T15:05:55.651Z
-description: That was the consensus among the arriving students at Kilbourne
+description: It just feels like we are on another planet. That was the consensus among the arriving students at Kilbourne
   Hole, New Mexico. On a swelteringly hot day in the middle of the desert,
   seemingly undisturbed by human settlement, one would not be alone in mistaking
   it for the famous desert planets of Tatooine from Star Wars or Arrakis from
