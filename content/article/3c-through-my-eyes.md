@@ -12,8 +12,8 @@ description: >
   am — and how the problems that exist in my head are even smaller.
 featured: false
 img: ../../static/images/overview.jpg
-imgAlt: "#SBU students gather with NASA scientists for fieldwork at Potrillo
-  Volcanic Filed in New Mexico, April 2022"
+imgAlt: SBU students gather with NASA scientists for fieldwork at Potrillo
+  Volcanic Field in New Mexico, April 2022
 tags:
   - Melanie Formosa
 section: PlanetaryProtege
