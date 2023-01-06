@@ -16,7 +16,9 @@ tags:
   - Emmanuel Jaquez
 section: Featured
 ---
-The earth has untold tales throughout its history – and so do other planets. Scientists like Ernie Bell of NASA’s Goddard Space Flight Center hope to uncover the stories embedded in the earth to help people gain a better understanding of other planets. 
+B﻿Y EMMANUEL JAQUEZ
+
+The earth has untold tales throughout its history – and so do other planets. Scientists like Ernie Bell of NASA’s Goddard Space Flight Center in Maryland hope to uncover the stories embedded in the earth to help people gain a better understanding of other planets.
 
 That’s the premise that brought teams of scientists to check out seismic activity at Potrillo Volcanic Field in southern New Mexico. The volcanic field is a rich area of research for scientists who see it as an “analog,” a kind of geological parallel, to bodies in space such as the moon and planets. They hope to not only better understand seismic activity but also any complications arising from living near a volcanic area.
 
@@ -35,16 +37,17 @@ Scientists attached an electronic trigger to the sledgehammer that detects when 
 
 For each geophone planted, scientists repeat making contact with the slab at least 10 times to make sure they have gathered enough data on each geophone. Copious amounts of ash present in the area made it difficult for seismic instruments to work on the first try. 
 
-"We mainly looked at the southern rim of the volcano today, said Bell, a postdoctoral research associate at NASA’s Goddard Space Flight Center and the University of Maryland. “A part of that was to look at post-eruption deposition of eruptive material or post to eruptive materials which could be comparable to lunar craters and or lunar foldings."
+"We mainly looked at the southern rim of the volcano today, said Bell. “A part of that was to look at post-eruption deposition of eruptive material or post to eruptive materials which could be comparable to lunar craters and or lunar foldings."
 
 ![Ernie Bell (left) and John West (right) setting up geophones within the volcanic crater.](../../static/images/2b-2.jpg "Ernie Bell (left) and John West (right) setting up geophones within the volcanic crater.")
+
 <figcaption class="rr-caption" align="center">Ernie Bell (left) and John West (right) setting up geophones within the volcanic crater.</figcaption>
 
 The craters of Potrillo are filled with volcanic ash. It looks pretty similar to sand, but it's much more refined, more like a powder. The ash sometimes can distort the waves that the geophone sends down into the earth. Ash and sand are very fine and loose materials that create “noise,” making it difficult to collect good data. 
 
 Noise consists of unwanted frequencies that arise from different factors: Researchers repeat the tests and then overlay the data collected to have a better "image" of the data collected.
 
-The environment surrounding the Potrillo volcanic field is harsh.  The area has several animals to watch out for, including some venomous ones, such as rattlesnakes.
+The environment surrounding the Potrillo Volcanic Field is harsh.  The area has several animals to watch out for, including some venomous ones, such as rattlesnakes.
 
 People live near volcanoes, too, which is why seismic research NASA is conducting is essential even though it’s primarily geared toward other planetary bodies. 
 
