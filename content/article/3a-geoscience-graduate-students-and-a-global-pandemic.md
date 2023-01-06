@@ -27,7 +27,7 @@ Thirty minutes later, Kumari is back in the field, clipboard, and iPad in hand, 
 
 ![](../../static/images/3a2.jpg)
 
-For students like Nandita Kumari, New Mexico is a time to start anew and make up for forgotten fieldwork time. 
+For students like Nandita Kumari, New Mexico is a place to start anew and make up for forgotten fieldwork time. 
 
 One of the prospects of fieldwork is its in-person interaction — traveling, meeting with scientists, and sharing data. It is a crucial element of programs like geology, earth, and life sciences. These opportunities, however, had come to a halt due to the COVID-19 pandemic. 
 
