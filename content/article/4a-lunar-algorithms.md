@@ -1,16 +1,22 @@
 ---
 template: blog-post
-title: "From Passion Project to NASA: How Putting Data In Context Changed One Engineer’s Career"
+title: "From Passion Project to NASA: How Putting Data In Context Changed One
+  Engineer’s Career"
 publishedDate: 2022-10-17T06:36:42.533Z
 description: >
-  Ben Feist stood against the dusty wind at the Potrillo volcanic field. “Nothing like chasing your hat across the desert,” he quipped. The software engineer stood in the midst of a 400-square-mile otherworldly environment of parched land, craters and lava flows.
+  Ben Feist stood against the dusty wind at the Potrillo volcanic field.
+  “Nothing like chasing your hat across the desert,” he quipped. The software
+  engineer stood in the midst of a 400-square-mile otherworldly environment of
+  parched land, craters and lava flows.
 featured: false
 img: ../../static/images/4a5.jpg
-imgAlt: ""
+imgAlt: Ben Feist at the Potrillo Volcanic Field in New Mexico. April 2022.
 tags:
   - Melanie Formosa
 section: LunarLuminary
 ---
+B﻿Y MELANIE FORMOSA
+
 Ben Feist stood against the dusty wind at the Potrillo volcanic field. “Nothing like chasing your hat across the desert,” he quipped. The software engineer stood in the midst of a 400-square-mile otherworldly environment of parched land, craters and lava flows. 
 
 He endured the New Mexican desert for NASA field work as the data subteam lead this past April. Field work is a rare opportunity for a computer scientist, he said. But Feist is familiar with the atypical; his path to NASA was unusual in itself. 
@@ -34,6 +40,7 @@ Contextual data offers a broader look into the data collected by providing backg
 Feist created prototypes displaying how he could help the scientific community at NASA through organizing contextual data. It led to where he is now: a software engineer in data visualization and informatics in the Astromaterials Research & Exploration Science (ARES) division at Johnson Space Center in Houston as a Jacobs contractor since 2018.
 
 ![Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.](../../static/images/4a5.jpg "Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.")
+
 <figcaption class="rr-caption" align="center">Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.</figcaption>
 
 “I am part of a small team that designs and builds the systems for Artemis that will be used by mission control to plan and execute lunar space walks,” Feist said. NASA’s Artemis program is set to return astronauts to the Moon by 2025 and pave the way for human missions to Mars.
@@ -42,15 +49,16 @@ Feist is the creator of Collaborative Operations Data Activation (CODA), which i
 
 CODA is primarily used on the International Space Station (ISS) and contains all data collected since 2013. “It’s basically Apollo In Real Time for the space station,” Feist said. 
 
-In April 2022, Remote, In Situ, and Synchrotron Studies for Science and Exploration 2 (RISE2) researchers returned to the Potrillo volcanic field in New Mexico to conduct an analog mission. The location, referred to as a planetary analog site, has extreme conditions that resemble other worlds, such as the Moon and Mars. 
+In April 2022, Remote, In Situ, and Synchrotron Studies for Science and Exploration 2 (RISE2) researchers returned to the Potrillo volcanic field in New Mexico to conduct an analog mission. The location, referred to as a planetary analog site, has extreme conditions that resemble those found on other worlds, such as the Moon and Mars. 
 
 “It is excellent to have Ben Feist on the field team,” said Whelley of NASA’s Goddard Space Flight Center. “His background is different from most of the team, so his questions are different, from a different perspective. This makes us geologists double check our assumptions and be more effective scientists.”
- 
+
 “Also,” Whelley continued. “Ben is a fun person to be around. If Ben is on the team, sign me up.”
 
-On this past RISE2 trip, Feist was responsible for recording everything the mock astronauts completed on the scripted EVAs, including mock-up science data. EVAs, or extravehicular activities, are test experiments conducted outside a spacecraft. The EVAs at the Potrillo volcanic field were done by mock astronauts to help Artemis mission astronauts communicate with mission control.
+On this past RISE2 trip, Feist was responsible for recording everything the mock astronauts completed on the scripted EVAs, including mock-up science data. EVAs, or extravehicular activities, are test experiments conducted outside a spacecraft. The EVAs at the Potrillo Volcanic Field were done by mock astronauts to help Artemis mission astronauts communicate with mission control.
 
 ![Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.](../../static/images/4a3.jpg "Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.")
+
 <figcaption class="rr-caption" align="center">Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.</figcaption>
 
 After gathering the scientific data in the field, Feist focused on putting it all into a contextual replay system, like CODA.
@@ -66,6 +74,7 @@ The movie depicts the true story of figuring out a way to get astronauts back to
 Feist values saying yes. “It’s the answer to challenges I don't know how I can possibly accomplish when they are given to me,” he said. “Instead of having doubts around myself and saying, ‘I'm not sure’ or ‘I'll see what I can do,’ I just say ‘yes.’ And then I throw myself at the problem and try to get it done.”
 
 ![Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.](../../static/images/4a2.jpg "Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.")
+
 <figcaption class="rr-caption" align="center">Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.</figcaption>
 
 Feist graduated from Trent University in Ontario with a bachelor of arts in English literature and computer studies in 1996. Before NASA, Feist designed and built interactive experiences in the web development consulting industry, and he ran the technology disciplines at several marketing agencies. 
