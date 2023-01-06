@@ -9,14 +9,17 @@ description: >
   have occurred and the history of rocks that remain. 
 featured: false
 img: ../../static/images/3a4.jpg
-imgAlt: ""
+imgAlt: SBU geosciences graduate student Nandita Kumari shares data with NASA
+  scientists at Potrillo Volcanic Filed in New Mexico, April 2022
 tags:
   - Deidre Redhead
 section: PlanetaryProtege
 ---
+B﻿Y DEIDRE REDHEAD
+
 A couple of minutes after noon at Kilbourne Hole, an elliptical-shaped volcanic crater in New Mexico, Nandita Kumari rests on a boulder-sized basalt rock. She sets her clipboard and iPad aside to unwrap a granola bar.
 
-She spent the morning doing data collection and rock identification for each extravehicular (EVA) traverse. For each EVA walkthrough — approximately 60 to 70 minutes — Kumari records the observations of scientists at each site, makes note of what rock sample they would take (they don’t actually take the rocks), and measures the readings from the handheld spectrometer on the iPad.
+She has spent the morning doing data collection and rock identification for each extravehicular (EVA) traverse. For each EVA walkthrough — approximately 60 to 70 minutes — Kumari records the observations of scientists at each site, makes note of what rock sample they would take (they don’t actually take the rocks), and measures the readings from the handheld spectrometer on the iPad.
 
 Thirty minutes later, Kumari is back in the field, clipboard, and iPad in hand, explaining the properties of quartz. The data and observations from scientists, Kumari hopes, will give better insight into the eruptions that have occurred and the history of rocks that remain. 
 
@@ -26,13 +29,13 @@ Thirty minutes later, Kumari is back in the field, clipboard, and iPad in hand, 
 
 For students like Nandita Kumari, New Mexico is a time to start anew and make up for forgotten fieldwork time. 
 
-One of the prospects of fieldwork is its in-person interaction — traveling, meeting with scientists, and sharing data. It is a crucial element of programs like geology, earth, and life sciences. These opportunities, however, would come to a halt due to the COVID-19 pandemic. 
+One of the prospects of fieldwork is its in-person interaction — traveling, meeting with scientists, and sharing data. It is a crucial element of programs like geology, earth, and life sciences. These opportunities, however, had come to a halt due to the COVID-19 pandemic. 
 
 She started graduate school in Fall 2019, ready for the research positions the Stony Brook geosciences department would have to offer, including an opportunity to work on the Diviner Lunar Radar Experiment (DLRE) alongside her advisor, Timothy Glotch. 
 
 “It’s a really big opportunity to be a part of a mission team,” Kumari said. “People look out for each other and I think that’s really important at school. This kind of support.”
 
-By the spring of 2020, field research opportunities were suspended as the scientific community. The logistics of what could be done during the pandemic were in limbo. Some scientific institutions like the American Geosciences Institute still offered a [summer 2020](https://www.americangeosciences.org/news/agis-2020-remote-summer-internships-provide-geoscience-policy-experience) internship opportunity, but to be conducted remotely.
+By the spring of 2020, field research opportunities were suspended in the scientific community. The logistics of what could be done during the pandemic were in limbo. Some scientific institutions like the American Geosciences Institute still offered a [summer 2020](https://www.americangeosciences.org/news/agis-2020-remote-summer-internships-provide-geoscience-policy-experience) internship opportunity, but to be conducted remotely.
 
 These moments to conduct research in regions across the country, or even across the globe in some cases, were upended due to the pandemic, resulting in many students like herself missing out on chances to expand their in-person experience.
 
@@ -42,13 +45,13 @@ It’s not an unusual experience for students to feel as if they lost a sense of
 
 “I would have a first experience at the beginning of my second year,” Hopkins said.
 
-![](../../static/images/3a3.jpg)
+![SBU graduate student Reed Hopkins traverses Potrillo Volcanic Field in New Mexico, April 2022](../../static/images/3a3.jpg)
 
 But he leans on the universal feeling that other science students share in their first time doing fieldwork to showcase the idea of normalcy for other students.
 
-“Last time we went out here in November, it was like the first major trip that a lot of people did,” he said. “People would out here and work in the field. It was amazing.”
+“Last time we went out here in November, it was like the first major trip that a lot of people did,” he said. “People would come out here and work in the field. It was amazing.”
 
-Starting new by working in the field was also categorized by a feeling of overwhelmingness, according to Linden Wike, University of Maryland geophysics grad student, who was also in New Mexico.
+Linden Wike, a University of Maryland geophysics grad student, said starting anew by working in the field was overwhelming.
 
 Wike, who does most of her work in a lab, described her first time doing fieldwork last November as “getting to apply things I’ve learned in class,” when it came to setting up physical experiments.
 
@@ -64,10 +67,10 @@ Kumari was also facing an added layer of stress during the pandemic as her home 
 
 Again, she credits Glotch and the rest of the department for being her support system with routine emails asking about her wellbeing and how her family in India was doing.
 
-Even now as opportunities become more available, these positions were mostly for first-year graduate students. Despite having no field experience, as a junior, Kumari was seen as overqualified and missed out on many chances to get back into the field.
+Even now as opportunities become more available, these positions are mostly for first-year graduate students. Despite having no field experience, Kumari was seen as overqualified and missed out on many chances to get back into the field.
 
-She has about a week left to work on the RISE2 project before heading to San Francisco for other projects and conferences.
+She had about a week left to work on the RISE2 project before heading to San Francisco for other projects and conferences.
 
 “It’s been a weird thing, but I’m glad it’s working out now.”
 
-![](../../static/images/3a1.jpg)
+![SBU geosciences grad students Nandita Kumari and Reed Hopkins in Potrillo Volcanic Field, April 2022](../../static/images/3a1.jpg)
