@@ -60,8 +60,8 @@ const data: MenuItem[] = [
     ],
   },
   {
-    label: "Contact",
-    href: "/contact/",
+    label: "About",
+    href: "/about/",
   },
 ];
 

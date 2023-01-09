@@ -14,7 +14,7 @@ const menuItems: MenuItem[] = [
   },
   {
     label: "About",
-    href: "/contact",
+    href: "/about",
   },
   {
     label: "School of Communication and Journalism",

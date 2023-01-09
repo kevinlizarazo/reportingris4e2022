@@ -3,7 +3,7 @@ import { format } from "date-fns";
 import Image, { FluidObject } from "gatsby-image";
 import { Layout } from "../components/layout";
 
-interface BlogPost {
+interface About {
   title: string;
   tags: string[];
   img: FluidObject;
@@ -11,7 +11,7 @@ interface BlogPost {
   publishedDate: Date;
 }
 
-export const BlogPost: FunctionComponent<BlogPost> = ({
+export const About: FunctionComponent<About> = ({
   title,
   tags,
   img,
