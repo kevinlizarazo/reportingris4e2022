@@ -32,7 +32,7 @@ export const BlogPost: FunctionComponent<BlogPost> = ({
         {imgAlt && (
           <div className="text-center my-2 text-gray-500">{imgAlt}</div>
         )}
-        <div className="text-center mb-3 text-gray-500">
+        <div className="text-center mb-3 text-gray-500 uppercase">
           {tags.map((tag, index) => (
             <span
               key={index}
