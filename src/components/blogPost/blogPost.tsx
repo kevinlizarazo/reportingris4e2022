@@ -28,20 +28,20 @@ export const BlogPost: FunctionComponent<BlogPost> = ({
         <div className="text-center mb-3 text-gray-500">
           {format(publishedDate, "dd MMM, yyyy")}
         </div>
+        <Image fluid={img} alt={imgAlt || title} className="w-full" />
+        {imgAlt && (
+          <div className="text-center my-2 text-gray-500">{imgAlt}</div>
+        )}
         <div className="text-center mb-3 text-gray-500">
           {tags.map((tag, index) => (
             <span
               key={index}
               className="text-sm leading-5 font-medium text-indigo-600 mx-2"
-            >
-              <a href={`/tags/${tag}`}>{tag}</a>
+            >By
+              <a href={`/tags/${tag}`}> {tag}</a>
             </span>
           ))}
         </div>
-        <Image fluid={img} alt={imgAlt || title} className="w-full" />
-        {imgAlt && (
-          <div className="text-center my-2 text-gray-500">{imgAlt}</div>
-        )}
         <div className="flex justify-center">
           <div className="max-w-screen-lg">
             <div className="prose sm:prose-lg md:prose-xl text-gray-700">
