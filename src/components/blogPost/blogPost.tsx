@@ -32,18 +32,18 @@ export const BlogPost: FunctionComponent<BlogPost> = ({
         {imgAlt && (
           <div className="text-center my-2 text-gray-500">{imgAlt}</div>
         )}
-        <div className="text-center mb-3 text-gray-500 uppercase">
-          {tags.map((tag, index) => (
-            <span
-              key={index}
-              className="text-sm leading-5 font-medium text-indigo-600 mx-2"
-            >By
-              <a href={`/tags/${tag}`}> {tag}</a>
-            </span>
-          ))}
-        </div>
         <div className="flex justify-center">
           <div className="max-w-screen-lg">
+            <div className="mb-3 text-gray-500 uppercase">
+              {tags.map((tag, index) => (
+                <span
+                  key={index}
+                  className="text-sm leading-5 font-medium text-indigo-600 mx-2"
+                >By
+                  <a href={`/tags/${tag}`}> {tag}</a>
+                </span>
+              ))}
+            </div>
             <div className="prose sm:prose-lg md:prose-xl text-gray-700">
               {children}
             </div>
