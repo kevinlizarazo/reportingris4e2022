@@ -43,6 +43,16 @@ While there were no time constraints on these tests, in a real-life Moon travers
 
 The next phase of the EVA team’s tests will have not only time constraints, but also a limited amount of samples that can be collected. These components will add pressure to the tasks at hand, and the type of data/tools that are relevant to them will become more evident. Overall, the researchers are expecting the experiment to be higher fidelity.
 
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/YhClTPQxMtc"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
 “This is, you know, kind of one of the first opportunities where we try and integrate science into an operational context,” said Cherie Achilles, the interim field lead for RISE2. “And if you've been following EVA’s you know we did not achieve that all the time and so that's exactly what we wanted to learn.”
 
 Astronauts will be running through the EVAs next, emulating the space walks they will take in 2025 on the Artemis mission.
