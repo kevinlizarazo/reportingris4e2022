@@ -46,3 +46,5 @@ export const About: FunctionComponent<About> = ({
     </Layout>
   );
 };
+
+export default About;
