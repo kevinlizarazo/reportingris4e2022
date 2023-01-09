@@ -27,10 +27,10 @@ const menuItems: MenuItem[] = [
 ];
 
 const footer = {
-  copyrightOwner: "GEEK SG",
-  linkedin: "https://www.linkedin.com/in/raymondyeh/",
-  github: "https://github.com/yehjxraymond",
-  instagram: "https://www.instagram.com/geek.sg/",
+  copyrightOwner: "",
+  facebook: "https://www.facebook.com/sbujournalism/",
+  instagram: "https://www.instagram.com/sbujournalism/",
+  twitter: "https://twitter.com/SBUjournalism",
 };
 
 export const Layout: FunctionComponent = ({ children }) => {
@@ -74,7 +74,7 @@ export const Layout: FunctionComponent = ({ children }) => {
         {/* <div className="bg-gray-800"><div className="container mx-auto px-4 sm:px-6 lg:px-8">{children}</div></div> */}
         <div className="">{children}</div>
       </div>
-      {/* <Footer {...footer} /> */}
+      <Footer {...footer} />
     </>
   );
 };
