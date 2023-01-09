@@ -16,7 +16,6 @@ tags:
   - Maya Brown
 section: StarAcademic
 ---
-B﻿Y MAYA BROWN
 
 On a hot sunny day in the deserts of New Mexico, Alice Baldridge stood on the edge of a rock one morning under the late April sky and took scientists through simulation after simulation in a volcanic crater to learn the history of the site. 
 

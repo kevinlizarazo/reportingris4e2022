@@ -15,7 +15,6 @@ tags:
   - Melanie Formosa
 section: LunarLuminary
 ---
-B﻿Y MELANIE FORMOSA
 
 Ben Feist stood against the dusty wind at the Potrillo volcanic field. “Nothing like chasing your hat across the desert,” he quipped. The software engineer stood in the midst of a 400-square-mile otherworldly environment of parched land, craters and lava flows. 
 

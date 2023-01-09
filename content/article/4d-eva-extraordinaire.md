@@ -14,7 +14,6 @@ tags:
   - Deidre Redhead
 section: LunarLuminary
 ---
-B﻿Y DEIDRE REDHEAD
 
 Zach Morse wore a plaid, red flannel, and a white KN95 mask. Only his eyes were visible as he knelt down to inspect a small piece of olivine. 
 

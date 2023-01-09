@@ -16,7 +16,6 @@ tags:
   - Julia Zeikowitz
 section: StarAcademic
 ---
-B﻿Y JULIA ZEIKOWITZ
 
 Deanne Rogers may be an expert on the surface of the Moon and Mars – though she’s never been to Mars or to the Moon, for that matter.
 

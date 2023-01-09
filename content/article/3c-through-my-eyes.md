@@ -18,7 +18,6 @@ tags:
   - Melanie Formosa
 section: PlanetaryProtege
 ---
-B﻿Y MELANIE FORMOSA
 
 A coating of desert dust is etched into the now-pronounced creases of my boot. My boots are forever changed, and so am I. Being out there in the desert, approximately eight hours a day for three days, was humbling. From the vastness of the scenery to the uneven terrain, to the dust devils to the olivine, the intensity and power of the natural world was remarkable. Experiencing the beauty and magnitude of the area made me realize how small I am — and how the problems that exist in my head are even smaller. Several lessons learned: 
 

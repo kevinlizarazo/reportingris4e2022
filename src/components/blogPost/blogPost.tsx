@@ -34,11 +34,11 @@ export const BlogPost: FunctionComponent<BlogPost> = ({
         )}
         <div className="flex justify-center">
           <div className="max-w-screen-lg">
-            <div className="mb-3 text-gray-500 uppercase">
+            <div className="mt-3 text-gray-500 uppercase">
               {tags.map((tag, index) => (
                 <span
                   key={index}
-                  className="text-sm leading-5 font-medium text-indigo-600 mx-2"
+                  className="text-sm leading-5 font-medium text-indigo-600"
                 >By
                   <a href={`/tags/${tag}`}> {tag}</a>
                 </span>

@@ -15,7 +15,6 @@ tags:
   - Sara Ruberg
 section: StarAcademic
 ---
-B﻿Y SARA RUBERG
 
 The four geology students and their professor hauled a tricked-out kids’ jeep turned Moon rover up the side of Kilbourne Hole in New Mexico. Their feet slid back in the sand with every step as they carried it up. After three pauses and some laughter, the team celebrated when they got to the top, then Professor José Hurtado took his team down into the crater to test out the rover on the rough terrain.
 

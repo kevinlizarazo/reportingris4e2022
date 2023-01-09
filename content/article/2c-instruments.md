@@ -10,14 +10,12 @@ description: Along with the human crew, the rocket blasting back to the Moon as
   sites like Kilbourne Hole in New Mexico will likely take the journey – or at
   least some instruments derived from those trusty monitors will.
 featured: true
-img: ../../static/images/2c1.jpg
-imgAlt: Amy McAdam using the XRS on a sample in Potrillo Volcanic Field in New
-  Mexico, April 2022
+img: ../../static/images/5a3.JPG
+imgAlt: Rogers at work with a hyperspectral imager at Potrillo Volcanic Field in New Mexico, April 2022
 tags:
   - Julia Zeikowitz
 section: Featured
 ---
-B﻿Y JULIA ZEIKOWITZ
 
 Along with the human crew, the rocket blasting back to the Moon as part of the Artemis Project in 2025 will be carrying an array of highly sensitive gadgets to help the astronauts do dangerous and important jobs in space.  Some of the machines used on Earth to analyze the features of analog sites like Kilbourne Hole in New Mexico will likely take the journey – or at least some instruments derived from those trusty monitors will, NASA scientists said.
 

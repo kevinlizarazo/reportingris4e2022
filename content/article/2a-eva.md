@@ -17,9 +17,6 @@ tags:
 section: Featured
 ---
 
-
-B﻿Y SARA RUBERG
-
 “Houston, are you seeing this?” Caroline Kostak said into the GoPro propped on her shoulder.
 
 The NASA engineer held up a rock she found during a traverse and showed it to the camera, twisting it and examining it in her hands. She’s usually a researcher for the Remote, In Situ, and Synchrotron Studies for Science and Exploration (RISE2) Program, but today she’s acting like an astronaut on the Moon collecting rock samples to bring back to Earth.

@@ -15,7 +15,6 @@ tags:
   - Ryan Magill
 section: LunarLuminary
 ---
-B﻿Y RYAN MAGILL
 
 Despite now being on a mission with NASA level funding, and with colleagues sporting equipment the cost of a college fund, Stephen Scheidt likes to keep his equipment simple, cost-effective and personal. 
 

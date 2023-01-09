@@ -16,7 +16,6 @@ tags:
   - Emmanuel Jaquez
 section: Featured
 ---
-B﻿Y EMMANUEL JAQUEZ
 
 The earth has untold tales throughout its history – and so do other planets. Scientists like Ernie Bell of NASA’s Goddard Space Flight Center in Maryland hope to uncover the stories embedded in the earth to help people gain a better understanding of other planets.
 

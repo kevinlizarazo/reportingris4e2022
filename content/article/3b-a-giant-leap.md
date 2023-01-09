@@ -18,7 +18,6 @@ tags:
   - Emmanuel Jaquez
 section: PlanetaryProtege
 ---
-B﻿Y EMMANUEL JAQUEZ
 
 In April 2022, I stepped into the shoes of an astronaut.
 

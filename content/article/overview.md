@@ -13,10 +13,9 @@ img: ../../static/images/1a1.jpg
 imgAlt: SBU students gather with NASA scientists to explore an analog site on
   Earth for travel to the Moon
 tags:
-  - RIS4E
+  - Ryan Magill
 section: Overview
 ---
-B﻿Y RYAN MAGILL
 
 It just feels like we are on another planet.
 

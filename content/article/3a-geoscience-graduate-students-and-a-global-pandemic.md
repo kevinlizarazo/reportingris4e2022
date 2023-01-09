@@ -15,7 +15,6 @@ tags:
   - Deidre Redhead
 section: PlanetaryProtege
 ---
-B﻿Y DEIDRE REDHEAD
 
 A couple of minutes after noon at Kilbourne Hole, an elliptical-shaped volcanic crater in New Mexico, Nandita Kumari rests on a boulder-sized basalt rock. She sets her clipboard and iPad aside to unwrap a granola bar.
 
