@@ -16,6 +16,8 @@ tags:
 section: LunarLuminary
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a1_k2PHoQQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Ben Feist stood against the dusty wind at the Potrillo volcanic field. “Nothing like chasing your hat across the desert,” he quipped. The software engineer stood in the midst of a 400-square-mile otherworldly environment of parched land, craters and lava flows. 
 
 He endured the New Mexican desert for NASA field work as the data subteam lead this past April. Field work is a rare opportunity for a computer scientist, he said. But Feist is familiar with the atypical; his path to NASA was unusual in itself. 
@@ -38,7 +40,7 @@ Contextual data offers a broader look into the data collected by providing backg
 
 Feist created prototypes displaying how he could help the scientific community at NASA through organizing contextual data. It led to where he is now: a software engineer in data visualization and informatics in the Astromaterials Research & Exploration Science (ARES) division at Johnson Space Center in Houston as a Jacobs contractor since 2018.
 
-![Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.](../../static/images/4a5.jpg "Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.")
+![Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.](../../static/images/4a1.jpg "Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.")
 
 <figcaption class="rr-caption" align="center">Ben Feist at the Potrillo volcanic field, New Mexico. April 2022. Photo by Melanie Formosa.</figcaption>
 

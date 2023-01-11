@@ -26,7 +26,7 @@ export const BlogPost: FunctionComponent<BlogPost> = ({
           {title}
         </h1>
         <div className="text-center mb-3 text-gray-500">
-          {format(publishedDate, "dd MMM, yyyy")}
+          April 2022
         </div>
         <Image fluid={img} alt={imgAlt || title} className="w-full" />
         {imgAlt && (
