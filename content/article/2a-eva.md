@@ -10,9 +10,9 @@ description: “Houston, are you seeing this?” Caroline Kostak said into the G
   like an astronaut on the Moon collecting rock samples to bring back to Earth.
 featured: true
 img: ../../static/images/ris4e-img.jpg
-imgAlt: "#Jacob Richardson and SBU journalism student Lauren Canavan discuss
-  Extravehicular Activity teams at Potrillo Volcanic Field in New Mexico, April
-  2022"
+imgAlt: "#NASA's Jacob Richardson and SBU journalism student Lauren Canavan
+  discuss Extravehicular Activity teams at Potrillo Volcanic Field in New
+  Mexico, April 2022"
 tags:
   - Sara Ruberg
 section: Featured
