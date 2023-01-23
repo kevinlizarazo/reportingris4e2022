@@ -11,12 +11,12 @@ description: Along with the human crew, the rocket blasting back to the Moon as
   least some instruments derived from those trusty monitors will.
 featured: true
 img: ../../static/images/5a3.JPG
-imgAlt: Rogers at work with a hyperspectral imager at Potrillo Volcanic Field in New Mexico, April 2022
+imgAlt: Rogers at work with a hyperspectral imager at Potrillo Volcanic Field in
+  New Mexico, April 2022
 tags:
   - Julia Zeikowitz
 section: Featured
 ---
-
 Along with the human crew, the rocket blasting back to the Moon as part of the Artemis Project in 2025 will be carrying an array of highly sensitive gadgets to help the astronauts do dangerous and important jobs in space.  Some of the machines used on Earth to analyze the features of analog sites like Kilbourne Hole in New Mexico will likely take the journey – or at least some instruments derived from those trusty monitors will, NASA scientists said.
 
 The machines range from the handheld variety to those that stand on a tripod like a movie camera, to ones that are stuffed into a backpack and ones that hover hundreds of feet above the surface taking aerial readings. Scientists use the machines designed for analyzing objects in space on Earth-bound spots like Kilbourne and Hunt’s Holes because they have a similar geology and composition to that of the Moon.
@@ -29,7 +29,7 @@ NASA scientists Paul Bremmer of Johnson Space Center in Houston and Michael Zane
 
 Amy McAdam of NASA’s Goddard Space Flight Center operates the X-Ray Spectrometer, or XRS. It’s used to analyze the mineral composition of rocks and outcrops. While at Kilbourne Hole, McAdam used this instrument after larger surveys of the rock beds were analyzed. The XRS works by using charged particles in order to get x-ray spectrometry of the elements that were surveyed.
 
-![Amy McAdams using the XRS on a sample.](../../static/images/2c1.jpg "Amy McAdams using the XRS on a sample")
+![Amy Mcdam using the XRS on a sample.](../../static/images/2c1.jpg "Amy Mcadam using the XRS on a sample")
 
 <figcaption class="rr-caption" align="center">Amy McAdam using the XRS on a sample.</figcaption>
 
