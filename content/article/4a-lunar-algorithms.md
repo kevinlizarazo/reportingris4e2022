@@ -11,6 +11,7 @@ description: >
 featured: false
 img: ../../static/images/4a5.jpg
 imgAlt: Ben Feist at the Potrillo Volcanic Field in New Mexico. April 2022.
+  Photo by Melanie Formosa
 tags:
   - Melanie Formosa
 section: LunarLuminary
