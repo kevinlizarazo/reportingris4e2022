@@ -29,7 +29,7 @@ NASA scientists Paul Bremmer of Johnson Space Center in Houston and Michael Zane
 
 Amy McAdam of NASA’s Goddard Space Flight Center operates the X-Ray Spectrometer, or XRS. It’s used to analyze the mineral composition of rocks and outcrops. While at Kilbourne Hole, McAdam used this instrument after larger surveys of the rock beds were analyzed. The XRS works by using charged particles in order to get x-ray spectrometry of the elements that were surveyed.
 
-![Amy Mcdam using the XRS on a sample.](../../static/images/2c1.jpg "Amy Mcadam using the XRS on a sample")
+![Amy Mcadam using the XRS on a sample.](../../static/images/2c1.jpg "Amy Mcadam using the XRS on a sample")
 
 <figcaption class="rr-caption" align="center">Amy McAdam using the XRS on a sample.</figcaption>
 
