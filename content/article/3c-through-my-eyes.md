@@ -11,7 +11,7 @@ description: >
   Experiencing the beauty and magnitude of the area made me realize how small I
   am — and how the problems that exist in my head are even smaller.
 featured: false
-img: ../../static/images/overview.jpg
+img: ../../static/images/1a1.jpg
 imgAlt: SBU students gather with NASA scientists for fieldwork at Potrillo
   Volcanic Field in New Mexico, April 2022
 tags:

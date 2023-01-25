@@ -27,13 +27,13 @@ NASA scientists Paul Bremmer of Johnson Space Center in Houston and Michael Zane
 
 “Basically, the sensor is a surveying tool for both navigation and science mapping, able to create ultra-high-resolution 3D maps at centimeter-level precision and give them a rich scientific context,” Zanetti said in an article about the cool gadget on NASA’s website. “It also will help ensure the safety of astronauts and rover vehicles in a GPS-denied environment such as the Moon, identifying actual distances to far-off landmarks and showing explorers in real time how far they’ve come and how far is left to go to reach their destination.”
 
-Amy McAdam of NASA’s Goddard Space Flight Center operates the X-Ray Spectrometer, or XRS. It’s used to analyze the mineral composition of rocks and outcrops. While at Kilbourne Hole, McAdam used this instrument after larger surveys of the rock beds were analyzed. The XRS works by using charged particles in order to get x-ray spectrometry of the elements that were surveyed.
+Amy Mcadam of NASA’s Goddard Space Flight Center operates the X-Ray Spectrometer, or XRS. It’s used to analyze the mineral composition of rocks and outcrops. While at Kilbourne Hole, Mcadam used this instrument after larger surveys of the rock beds were analyzed. The XRS works by using charged particles in order to get x-ray spectrometry of the elements that were surveyed.
 
 ![Amy Macadam using the XRS on a sample.](../../static/images/2c1.jpg "Amy Mcadam using the XRS on a sample.")
 
-<figcaption class="rr-caption" align="center">Amy McAdam using the XRS on a sample.</figcaption>
+<figcaption class="rr-caption" align="center">Amy Mcadam using the XRS on a sample.</figcaption>
 
-Stony Brook University geologist Deanne Rogers stood in the hot sun at Hunt’s Hole peering into the massive hyperspectral thermal infrared sensor. The instrument, which stands on a tripod, uses the long wavelengths of infrared light to analyze the chemical composition of a larger rock field, scanning wide areas of outcrops. The data from this instrument shows the composition of the minerals that are not visible to the naked eye. In the field, Rogers worked with McAdams to analyze the chemical composition at specific points on the rock bed,
+Stony Brook University geologist Deanne Rogers stood in the hot sun at Hunt’s Hole peering into the massive hyperspectral thermal infrared sensor. The instrument, which stands on a tripod, uses the long wavelengths of infrared light to analyze the chemical composition of a larger rock field, scanning wide areas of outcrops. The data from this instrument shows the composition of the minerals that are not visible to the naked eye. In the field, Rogers worked with Mcadam to analyze the chemical composition at specific points on the rock bed,
 
 In their own ways, these three instruments are playing an important role in 
 future space exploration.
