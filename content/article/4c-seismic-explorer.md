@@ -3,9 +3,10 @@ template: blog-post
 title: "In his element: Exploring seismic features with Jacob Richardson"
 publishedDate: 2022-10-16T03:11:17.866Z
 description: When Jacob Richardson enters a field site, he never knows what
-  he’ll find. As lead investigator of the GEODES (Geophysical Exploration of the
-  Dynamics and Evolution of the Solar System) team at NASA Goddard Space Flight
-  Center, Richardson has traveled the world conducting geological research.
+  he’ll find. As deputy principal investigator of the GEODES (Geophysical
+  Exploration of the Dynamics and Evolution of the Solar System) team at NASA's
+  Goddard Space Flight Center, Richardson has traveled the world conducting
+  geological research.
 featured: false
 img: ../../static/images/4c1.jpg
 imgAlt: NASA Scientist Jacob Richardson at work in Potrillo Volcanic Field, April 2022
