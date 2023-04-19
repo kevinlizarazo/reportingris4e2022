@@ -16,7 +16,6 @@ tags:
   - Maya Brown
 section: StarAcademic
 ---
-
 On a hot sunny day in the deserts of New Mexico, Alice Baldridge stood on the edge of a rock one morning under the late April sky and took scientists through simulation after simulation in a volcanic crater to learn the history of the site. 
 
 The geologist and educator lives to tell stories — but not as a writer. Her research mainly focuses on understanding the past and current processes that have shaped planets and comparing laboratory, field and remote spectroscopic data to solve various problems in planetary science.
@@ -41,7 +40,7 @@ Baldridge finds her way of giving back through teaching. While getting her maste
 
 “I think that I'm really good at engaging students in the classroom, getting them to learn by doing and coming up with cool activities and labs for them to do,” she said. “And I see how much that lights them up.”
 
-She is currently an assistant professor of Environmental and Earth Sciences at St. Mary’s College of California, where she is training a new generation of naturalists to appreciate the world around them.
+She is currently an associate professor of geology and director of Environmental and Earth Sciences at St. Mary’s College of California, where she is training a new generation of naturalists to appreciate the world around them.
 
 In 2019, she won a grant that would help her continue doing field work and share the experience with the younger generation. She was chosen to investigate space science and exploration as a part of NASA’s Solar System Exploration Research Virtual Institute. Serving as a co-investigator on the Remote, In Situ and Synchrotron Studies for the Science and Exploration 2 (RISE2) research team, Baldridge brought two undergraduates to New Mexico to conduct fieldwork at the Potrillo Volcanic Field. 
 
