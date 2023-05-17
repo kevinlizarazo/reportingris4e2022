@@ -14,10 +14,9 @@ tags:
   - Lauren Canavan
 section: LunarLuminary
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CngECav3NtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-When Jacob Richardson enters a field site, he never knows what he’ll find. As lead investigator of the GEODES (Geophysical Exploration of the Dynamics and Evolution of the Solar System) team at NASA Goddard Space Flight Center, Richardson has traveled the world conducting geological research. Through utilization of geophysics, his team explores lunar lava flows and tectonic features on Earth to determine how they might relate to conditions on other planets. 
+When Jacob Richardson enters a field site, he never knows what he’ll find. As deputy principal investigator of the GEODES (Geophysical Exploration of the Dynamics and Evolution of the Solar System) team at NASA Goddard Space Flight Center, Richardson has traveled the world conducting geological research. Through utilization of geophysics, his team explores lunar lava flows and tectonic features on Earth to determine how they might relate to conditions on other planets. 
 
 This past April, GEODES took part in RISE2 Potrillo, an initiative funded by NASA that brought dozens of scientists to conduct experiments across New Mexico’s vast Potrillo Volcanic Field. The site hosts an array of volcanoes that have been dormant for nearly 20,000 years.  
 
