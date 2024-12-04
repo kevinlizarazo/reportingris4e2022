@@ -65,6 +65,6 @@ const data: MenuItem[] = [
   },
 ];
 
-const logo = <img className="w-auto h-15" src={icon} alt="Workflow" />;
+const logo = <img className="w-2/3 h-auto" src={icon} alt="Workflow" />;
 
 story.add("Header", () => <Header menuItems={data} logo={logo} />);
