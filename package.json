@@ -2,23 +2,9 @@
   "name": "gatsby-blog",
   "version": "1.0.0",
   "description": "Opinionated starter template to get started with a blog",
-  "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "storybook"
-  ],
-  "homepage": "https://github.com/yehjxraymond/gatsby-blog",
   "license": "MIT",
-  "author": {
-    "name": "Raymond Yeh",
-    "url": "https://geek.sg"
-  },
   "files": [],
   "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yehjxraymond/gatsby-blog"
-  },
   "scripts": {
     "dev": "npm-run-all -p dev:*",
     "dev:storybook": "start-storybook -p 6006 -c .storybook",
