@@ -13,7 +13,7 @@
     "start": "concurrently --kill-others \"npm run dev\" \"npm run storybook\"",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "build": "export SET NODE_OPTIONS=--openssl-legacy-provider NODE_ENV=production npm-run-all -s build:css build:gatsby",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider NODE_ENV=production npm-run-all -s build:css build:gatsby",
     "build:css": "postcss src/tailwind.css -o static/css/index.css",
     "build:gatsby": "gatsby build",
     "build:storybook": "build-storybook -c .storybook -o public/docs",
