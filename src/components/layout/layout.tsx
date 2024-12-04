@@ -6,7 +6,7 @@ import { Header, MenuItem } from "./header";
 import { Footer } from "./footer";
 import icon from "../../../static/logo.png";
 
-const logo = <img className="w-auto h-15" src={icon} alt="Workflow" />;
+const logo = <img className="w-2/3 h-auto" src={icon} alt="Workflow" />;
 const menuItems: MenuItem[] = [
   {
     label: "Home",
