@@ -21,7 +21,7 @@ export const BlogPost: FunctionComponent<BlogPost> = ({
 }) => {
   return (
     <Layout>
-      <div className="">
+      <div className="px-5">
         <h1 className="text-3xl sm:text-5xl text-center font-semibold mt-8 mb-2">
           {title}
         </h1>
