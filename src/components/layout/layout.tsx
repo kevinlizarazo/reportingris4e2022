@@ -17,7 +17,7 @@ const menuItems: MenuItem[] = [
     href: "/about",
   },
   {
-    label: "School of Communication and Journalism",
+    label: "More from SoCJ",
     href: "https://www.stonybrook.edu/journalism/"
   },
   {
